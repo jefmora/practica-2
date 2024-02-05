@@ -1,0 +1,19 @@
+footer p{
+    background-color: blue;
+    color:white;
+}
+
+h1,h2{
+    text-align: center;
+}
+
+h2{
+    background: linear-gradient( blue,white,red);
+    color:black;
+    font-size: 24px;
+}
+
+p{
+    
+    text-align: center;
+}
